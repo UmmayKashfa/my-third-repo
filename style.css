@@ -1,0 +1,9 @@
+p{
+    color: violet;
+    background-color: teal;
+}
+h3{
+    text-align: center;
+    text-decoration: underline wavy red;
+    text-transform: capitalize;
+}
